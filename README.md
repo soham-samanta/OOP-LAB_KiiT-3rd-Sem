@@ -2,7 +2,7 @@
 
 # DISCLAIMER: These Solutions are only for educational purpose. Please don't missuse. 
 
-This Repository Contains all the solutions for the DSA Lab assignments of 3rd semester, KiiT University.
+This Repository Contains all the solutions for the OOP Lab assignments of 3rd semester, KiiT University.
 
 - LA = Lab Assignments
 - <b>HA = Home Assingment 
