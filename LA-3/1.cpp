@@ -52,11 +52,6 @@ using namespace std;
 
 void swap(int *,int *);
 
-#include<iostream>
-using namespace std;
-
-void swap(int &,int &);
-
 void swap(int *a,int *b){
         int c;
         c=*a;
@@ -71,9 +66,7 @@ int main(){
         cin>>a;
         cout<<"\nEnter Value of B: ";
         cin>>b;
-
         cout<<"\nBefore Swapping, Value of: \n\tA = "<<a<<"\tB = "<<b<<"\n";
-
         swap(&a,&b);
 }
 
