@@ -2,15 +2,21 @@
    I) Call by value
    II) Call by reference
    III) Call by address
+Ans: 1.c
   
 2. Create a class with an integer data member. Include functions for inputand output in class. Count the number of times each function is called anddisplay it.
+Ans: 2.c
 
 3. Create class student, input name, roll, marks for 5 subject. Input thedetails using get(), Display the details using show(), show the total marksand highest mark secured. (out of 5 subject)
+Ans: 3.c
 
 4. Create a class Area, find the area of triangle, rectangle, square and circleusing switch case. Input() to enter the details.
 
+Ans: 4.c
 5. Create a class emloyee to store the details for 3 employee (name, id,basic, hra, da). use user defined member fuction to input the details anddisplay the details. 
    Display the rank of the emplyee. Display the name ofthe employee having highest and lowest salary. 
    (rank=1 if10k&lt;salary&lt;20k, rank=2 if 21k&lt;salary 30 k, rank=3 if salary &gt;30k,)
+Ans: 5.c
 
 6. Create a class to show the arithmatic operation for 2 input integer value.
+Ans: 6.c
