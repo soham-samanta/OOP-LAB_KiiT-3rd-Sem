@@ -8,7 +8,7 @@ This Repository Contains all the solutions for the OOP Lab assignments of 3rd se
 - <b>HA = Home Assingment 
 - <b>Qs = Questions 
 <hr>
-- Check the DSA-LAB manual for all the Questions (LAs & HAs)
+- Check the OOP-LAB manual for all the Questions (LAs & HAs)
 
 # Instructions: 
 - <b>Open the following LA/HA folder (for eg LA-1 or La-2) . 
