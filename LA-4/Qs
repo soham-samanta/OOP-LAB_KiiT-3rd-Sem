@@ -1,1 +1,24 @@
-Qs
+### QUESTIONS 
+
+1. Overload volume(), for 3 times to find the volume for cylinder, rectangular box and cube.
+Ans: 1.c
+
+2. C++ program to find the area of various geometrical shapes by function overloading.
+Ans: 2.c
+
+3. Show the use of inline function to
+  A. Find the square of a number
+  B. To add two numbers
+Ans: 3.c
+
+4. C++ program to print first N natural numbers using inline function
+Ans: 4.c
+
+5. Show the use of default argument to add 4 numbers. (as discussed in class)
+Ans: 5.c
+
+
+#NOTE
+There were Two more Questions : Tags- 4.7 and 4.8
+(Unable to upload those two Question , But Solutions Uploaded)
+Ans: 47.c and 48.c
