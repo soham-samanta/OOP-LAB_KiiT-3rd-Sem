@@ -7,7 +7,7 @@ double power(double m,int n=2){
     return t;
 }
 
-int main(){
+int32_t main(){
     double num,ans;
     int p;
     cout<<"Enter the number: ";
