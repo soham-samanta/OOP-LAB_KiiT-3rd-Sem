@@ -1,0 +1,16 @@
+### QUESTIONS 
+
+1.Create a class complex which stores real and imaginary part of a complex
+number. Input 2 complex numbers and display them. Display their sum value sing object as function arument.
+Ans: 1.cpp
+
+2.Create a class distance which stores a distance in feet and inches. Input 2
+distance values in objects, add them, store the resultant distance in and object and display it.
+Ans: 2.cpp
+
+3.Create a class which stores x and y coordinates of a point. Calculate distance between two given points and display it.
+Ans: 3.cpp
+
+4.Create a class with an integer data member. Include functions for input and output in class. 
+Count the number of times each function is called and display it.
+Ans: 4.cpp
