@@ -1,0 +1,21 @@
+1. WAP to swap private data member of two classes.
+[The classes have no relation with each other].
+Solutions: 1.cpp
+
+2. Create two classes which stores distance in feet, inches and meter, centimeter format respectively. 
+Write a function which compares distance in object of these classes and displays the larger one. 
+Solutions: 2.cpp
+
+
+3. WAP in c++ to define a class employee which has employee code, employee name and employee designation , 
+salary as data members. It has one parameterized constructor and member function. Display the details.
+Solutions: 3.cpp
+
+4. Add two complex number using the concept of parametrized constructors.
+Solutions: 4.cpp
+
+5. Wap which print the object number whenever we create object.(use static concept)
+Solutions: 5.cpp
+
+6. Wap to show the order of object creation and destruction.
+Solutions: 6.cpp
