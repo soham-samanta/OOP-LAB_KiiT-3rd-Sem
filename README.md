@@ -23,7 +23,7 @@ This Repository Contains all the solutions for the OOP Lab assignments of 3rd se
 <a href="https://www.instagram.com/sohamsamanta2/">
   <img align="center" alt="Soham's Instagram" width="90px" src="https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=FC444F" />
 </a>
-<!-- <a href="https://github.com/soham-samanta">
+<!-- <a href="https://github.com/soham-samanta"> 
   <img align="center" alt="Soham's Github" width="90px" src="https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=1572B6" />
 </a> -->
   <a href="https://www.codechef.com/users/soham_cp_noob">
