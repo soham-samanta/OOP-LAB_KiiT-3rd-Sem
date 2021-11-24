@@ -1,0 +1,14 @@
+i. WAP to find sort an integer array and a float array, using function template.
+Ans: 1.cpp
+
+ii. WAP to display data of two different types using function template with multiple arguments.
+Ans: 2.cpp
+
+iii. Rewrite program i. using class template
+Ans: 31.cpp
+
+iv. Rewrite program ii. using class template
+Ans: 4.cpp
+
+v. WAP using template to overload area function to find the area of circle, triangle, rectangle.
+Ans: 5.cpp
